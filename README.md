@@ -48,27 +48,40 @@ Economic Indicator: Economic factors that influence purchasing power.
 Project Goals
 
 Analyze Conversion Rates: Identify factors contributing to sales conversions.
+
 Visualize Key Metrics: Create visuals for easy analysis of customer behavior, engagement, and more.
+
 Identify Trends and Patterns: Discover patterns and seasonal fluctuations that affect conversions.
+
 Support Decision-Making: Provide data-driven insights to inform marketing and sales strategies.
 
 
 Tools Used
 
 Power BI: Used for data visualization and dashboard creation.
+
 Excel: For initial data exploration and cleaning.
+
+
 Dashboard Features
+
 Overview Section: Displays key metrics such as total conversions, average order value, and customer satisfaction.
+
 Traffic and Engagement Insights: Analyzes website traffic, engagement rates, and social media influence.
+
 Customer Analysis: Highlights returning and new customer behaviors.
+
 Sales Performance: Compares product categories, shipping speed, and economic impacts on sales.
+
 Forecasting: Projects future sales based on historical data and current trends.
 
 
 Usage
 
 Open the Power BI file to view the dashboard.
+
 Interact with filters to explore data by different categories, time periods, or customer segments.
+
 Review insights and trends to make data-driven decisions for enhancing conversion rates.
 
 
