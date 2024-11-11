@@ -1,16 +1,19 @@
 **E-commerce Sales Conversion Dashboard**
+---
 
 This project focuses on analyzing and visualizing sales conversion data for an e-commerce platform using Power BI. The goal is to provide actionable insights for improving sales conversion rates by examining key metrics such as customer behavior, engagement rates, and economic factors.
----
 
 **Project Overview**
+---
 
 This project utilizes an e-commerce dataset to build a Sales Conversion Dashboard that helps stakeholders understand and optimize the sales funnel. By visualizing data across several dimensions, the dashboard provides a comprehensive overview of factors impacting sales conversions.
----
+
 
 
 **Dataset
 **
+---
+
 The dataset includes the following columns:
 
 Customer Behavior: Tracks customers' browsing patterns and purchase tendencies.
@@ -48,6 +51,7 @@ Economic Indicator: Economic factors that influence purchasing power.
 
 
 **Project Goals**
+---
 
 Analyze Conversion Rates: Identify factors contributing to sales conversions.
 
@@ -60,6 +64,7 @@ Support Decision-Making: Provide data-driven insights to inform marketing and sa
 
 
 **Tools Used**
+---
 
 Power BI: Used for data visualization and dashboard creation.
 
@@ -68,6 +73,7 @@ Excel: For initial data exploration and cleaning.
 
 
 **Dashboard Features**
+---
 
 Overview Section: Displays key metrics such as total conversions, average order value, and customer satisfaction.
 
@@ -82,6 +88,7 @@ Forecasting: Projects future sales based on historical data and current trends.
 
 
 **Usage**
+---
 
 Open the Power BI file to view the dashboard.
 
@@ -92,7 +99,7 @@ Review insights and trends to make data-driven decisions for enhancing conversio
 
 
 **License**
-
+---
 This project is open for educational and non-commercial use.
 
 
