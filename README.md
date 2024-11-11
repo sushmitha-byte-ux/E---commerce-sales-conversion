@@ -1,8 +1,10 @@
 **E-commerce Sales Conversion Dashboard**
+
 This project focuses on analyzing and visualizing sales conversion data for an e-commerce platform using Power BI. The goal is to provide actionable insights for improving sales conversion rates by examining key metrics such as customer behavior, engagement rates, and economic factors.
 
 
 **Project Overview**
+
 This project utilizes an e-commerce dataset to build a Sales Conversion Dashboard that helps stakeholders understand and optimize the sales funnel. By visualizing data across several dimensions, the dashboard provides a comprehensive overview of factors impacting sales conversions.
 
 
