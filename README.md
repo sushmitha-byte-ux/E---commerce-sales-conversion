@@ -10,8 +10,7 @@ This project utilizes an e-commerce dataset to build a Sales Conversion Dashboar
 
 
 
-**Dataset
-**
+**Dataset**
 ---
 
 The dataset includes the following columns:
